@@ -4,7 +4,7 @@
 
 ## 功能说明
 
-这个Edge浏览器插件用于自动修复访问`https://byrutgame.org./`开头的URL，将其重定向到正确的`https://byrutgame.org/`，同时保留URL后面的所有内容。
+You can remove Byrutgame's robot verification to prevent frequent checks./可以将byrutgame的机器人验证去除掉，防止频繁验证
 
 ## 安装方法
 
